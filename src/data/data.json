@@ -1,0 +1,194 @@
+{
+  "Header": {
+    "title": "We are Proudly said",
+    "paragraph": "Innovative Web Solutions for a Better Future. Your Vision, Our Code, Infinite Possibilities."
+  },
+  "About": {
+    "paragraph": "As a web developer, I focus on creating websites that to creating functional, innovative, and user-friendly websites. I offer tailored solutions that enhance user experience and drive results. Let's collaborate to turn your vision into reality! and I ensure every project reflects the client's vision and goals. Let's bring your ideas to life!",
+    "Why": [
+      "respectively Connected with clients",
+      "Dedicated to Excellence",
+      "Collaborative Process",
+      "On-Time Delivery, Every Time"
+    ],
+    "Why2": [
+      "Full-Stack Knowledge",
+      "Life-time Support",
+      "Support for a businesses growth",
+      "Simple and neat with offertable price"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Business Websites",
+      "text": "Get a professional, user-friendly website to showcase your brand, services, and vision. Perfect for small businesses, startups. Integrated contact forms and business tools."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-Commerce Development",
+      "text": "Turn your ideas into a thriving online store with seamless shopping experiences, Payment gateway integration for secure transactions."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development",
+      "text": "Reach your audience with innovative mobile apps, Native iOS and Android apps, using React Native Feature-rich, scalable, and user-focused designs."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Digital Marketing Services",
+      "text": "Boost your online presence and grow your business with targeted clients. Social media management and campaigns. Google Ads and email marketing services."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud management",
+      "text": "the organized management of cloud computing products and services that operate in the cloud"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": " Logo and Branding Design",
+      "text": "Create a memorable brand identity that stands out. Unique and professional logo design."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Working with one peace tech was a game-changer for my business. They created a stunning and user-friendly website that perfectly showcases my services. Their team was attentive, professional, and delivered beyond my expectations!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I was blown away by the e-commerce site one peace company built for me. The sleek design and seamless functionality have boosted my sales tremendously. They made the process simple and stress-free. Highly recommend!\"",
+      "name": "Johnathan"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"We needed a website that could keep up with our fast-paced startup, and one peace technology pt delivered. The design, speed, and performance are exceptional, and they even helped optimize it for SEO. Our online presence has never been stronger!\"",
+      "name": "Davit Aslaam"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Our mission was to create a platform that connects with our community, and one peace brought it to life. The site is beautiful, easy to navigate, and perfectly reflects our values. We’re beyond grateful for their expertise.\"",
+      "name": "Janiliya maithen"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"I needed a portfolio website to showcase my work, and one peace technology did an incredible job. They were patient, understood my vision, and created a website that feels uniquely 'me.' I've already received great feedback from clients.\"",
+      "name": "Thomas rouges"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"From concept to launch, one peace tech was professional and innovative. They built a corporate website that's polished, functional, and exactly what we needed to represent our brand. We look forward to collaborating again in the future!\"",
+      "name": "Mariyam Bhegam"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.JPG",
+      "name": "sathish",
+      "job": "Founder & CEO"
+    },
+    {
+      "img": "img/team/2.jpg",
+      "name": "sathish",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/3.jpg",
+      "name": "sathish",
+      "job": "Full Stack developer"
+    },
+    {
+      "img": "img/team/4.jpg",
+      "name": "sathish",
+      "job": "Marketing Manager"
+    }
+  ],
+  "Contact": {
+    "address": "no:13, bharathi nagar, Auroville main road, Tamil Nadu, India",
+    "phone": "9940447308",
+    "email": "onepeace.technology@gmail.com",
+    "facebook": "https://wa.me/919940447308",
+    "linkedin": "https://www.linkedin.com/in/sathish-surya-8715b01a3/",
+    "youtube": "https://www.youtube.com/@futuretech-with-sathish"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-slack",
+      "title": "Social Media",
+      "text": "By effectively integrating social media, businesses can boost brand visibility, and provide a best experience that keeps users connected and engaged."
+    },
+    {
+      "icon": "fa fa-align-left",
+      "title": "Google Form",
+      "text": "I provide seamless Google Form integration services for your website, Whether you need to embed a simple contact form, feedback survey, or event registration."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "title": "Mobile responsive Apps ",
+      "text": "I offer end-to-end mobile app development services. Android application, especially for your business growth."
+    },
+    {
+      "icon":"fa fa-plane",
+      "title":"SEO",
+      "text":"It helps seach engines understand and receive your content, increase your website visibility."
+    },
+    {
+      "icon": "fa fa-language",
+      "title": "Language support",
+      "text": "Providing support for multiple languages on your website enhances accessibility and allows you to reach a global audience."
+    },
+    {
+      "icon":"fa fa-pie-chart",
+      "title":"Dynamic Web-Pages",
+      "text":"it is User Iteractive contents, have more features, client-side technologies etc..."
+    }
+  ]
+}

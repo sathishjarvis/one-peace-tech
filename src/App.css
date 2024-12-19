@@ -1,0 +1,325 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+.logo{
+  width: 110px;
+  margin-top: -55px !important;
+}
+.cards{
+  height: 300px;
+}
+.feature div:nth-child(2){
+  justify-content: center !important;
+
+}
+.gaps{
+  padding: 8%;
+}
+.navMenu{
+  display: flex;
+}
+
+/* gallery */
+
+.projects {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.heading {
+  color: var(#ffe8f4f3);
+  letter-spacing: 1px;
+  font-size: 1.125rem;
+}
+
+.project-cont {
+  font-size: 3.2rem;
+  font-weight: 600;
+  word-spacing: 5px;
+  letter-spacing: 2px;
+  margin-left: 300px;
+  background:var(--bg-color);
+  background-clip: text;
+  color: transparent;
+  padding: 20px;
+}
+
+.project-1 {
+  border-radius: 20px;
+  overflow: hidden;
+  text-align: center;
+  width: 90%;
+  max-width: 390px;
+  height: 390px;
+  margin: 20px auto;
+  position: relative;
+}
+
+.project-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.project-overlay {
+  width: 100%;
+  height: 100%;
+  right: -100%;
+  top: 0;
+  position: absolute;
+  background: rgba(82, 174, 255, 0.069);
+  backdrop-filter: blur(5px);
+  color: var(#1a1a1a);
+  justify-content: center;
+  transition: 0.7s;
+  margin: auto;
+}
+
+.project-heading {
+  text-transform: uppercase;
+  font-size: 5rem;
+  font-weight: 450;
+  margin-top: 100px;
+}
+
+.project-body {
+  font-size: 2rem;
+  font-weight: 400;
+  padding: 15px 15px 15px 15px;
+  color: black;
+}
+
+.project1-view {
+  background-color: var(#1a1a1a);
+  padding: 15px 30px;
+  color: var(#ffe8f4f3);
+  border: none;
+  border-radius: 15px;
+  font-weight: 500;
+  font-size: 2rem;
+}
+.project1-view:hover{
+  background-color:#fff;
+  color:#1a1a1a;
+}
+
+.project-1:hover .project-overlay {
+  right: 0;
+}
+
+@media screen and (max-width:960px) {
+  
+}
+
+/* gallery end */
+
+details > summary p:hover{
+  border: 2px solid 25px rgb(235, 17, 17) !important;
+  font-size: large;
+  color: #f5f7f6 !important;
+  text-decoration: underline;
+}
+.arrows{
+  width: 40px !important;
+  height: 40px !important;
+  padding: 10px !important;
+  font-size: 20px !important;
+}
+
+/* service start */
+
+.pricing-container {
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #202020;
+  border-radius: 15px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.pricing-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.plan-selector span {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #c5bbbb;
+  transition: color 0.3s;
+}
+
+.plan-selector span.active {
+  color: #ff00ff;
+  border-bottom: 2px solid #ff00ff;
+}
+
+.pricing-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.plan-image {
+  flex: 1;
+  min-width: 300px;
+  max-width: 600px;
+  position: relative;
+  text-align: center;
+  padding: 20px;
+  top:40px;
+  color: white;
+}
+
+.plan-image img {
+  width: 100%;
+  border-radius: 15px;
+  transition: transform 0.3s;
+}
+
+.plan-image:hover img {
+  transform: scale(1.05);
+}
+
+.price {
+  position: absolute;
+  top: -80px;
+  left: 0px;
+  background: #a3bde7;
+  color: rgb(42, 41, 41) !important;
+  padding: 10px 20px;
+  border-radius: 50%;
+  text-align: center;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  font-weight: bold;
+}
+.price p{
+  color: #202020 !important;
+
+}
+.underline{
+  text-decoration: underline;
+}
+.plan-image h2 {
+  margin-top: 20px;
+  font-size: 24px;
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  animation: slideInUp 1s;
+}
+
+.plan-details {
+  flex: 1;
+  min-width: 300px;
+  max-width: 400px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.plan-details ul {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+  color: #c6baba;
+}
+
+.plan-details ul li {
+  margin: 10px 0;
+  position: relative;
+  padding-left: 30px;
+}
+
+.plan-details ul li::before {
+  content: '✔';
+  position: absolute;
+  left: 0;
+  color: #ff00ff;
+  font-weight: bold;
+}
+
+.get-quote-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 15px 30px;
+  background: linear-gradient(to right, #ff00ff, #ff6666);
+  color: white;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.get-quote-btn:hover {
+  background: linear-gradient(to right, #ff6666, #ff00ff);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.get-quote-btn span {
+  margin-left: 10px;
+  transition: margin-left 0.3s;
+}
+
+.get-quote-btn:hover span {
+  margin-left: 15px;
+}
+
+@keyframes slideInUp {
+  from {
+      transform: translateY(50px);
+      opacity: 0;
+  }
+  to {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .pricing-content {
+      flex-direction: column;
+  }
+
+  .plan-image, .plan-details {
+      max-width: 100%;
+  }
+  .price{
+      top:-40px;
+      left: -30px;
+  }
+  .price p {
+    padding: 0%;
+  }
+}
+/* service end */
+
