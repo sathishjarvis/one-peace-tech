@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/one-peace-tech/static/css/main.5f1d031d.css",
+    "main.js": "/one-peace-tech/static/js/main.ff594efa.js",
+    "static/js/787.f3d7924f.chunk.js": "/one-peace-tech/static/js/787.f3d7924f.chunk.js",
+    "static/media/fotog.png": "/one-peace-tech/static/media/fotog.3583fb163b87ee8711b4.png",
+    "static/media/uiux.png": "/one-peace-tech/static/media/uiux.66323228d4ad8b976732.png",
+    "static/media/Screenshot 2024-05-14 110822.png": "/one-peace-tech/static/media/Screenshot 2024-05-14 110822.08a69e70520a0d1c0950.png",
+    "static/media/static.png": "/one-peace-tech/static/media/static.bb98a2253f6ae6b50885.png",
+    "static/media/invoice.jpeg": "/one-peace-tech/static/media/invoice.0daad2573046be4e446f.jpeg",
+    "static/media/dynamic.jpeg": "/one-peace-tech/static/media/dynamic.82c0a775e5a9f3949740.jpeg",
+    "static/media/book.jpeg": "/one-peace-tech/static/media/book.098f33e10c39d6534b05.jpeg",
+    "static/media/uiux.jpeg": "/one-peace-tech/static/media/uiux.a1f958fe0c586793b057.jpeg",
+    "index.html": "/one-peace-tech/index.html",
+    "main.5f1d031d.css.map": "/one-peace-tech/static/css/main.5f1d031d.css.map",
+    "main.ff594efa.js.map": "/one-peace-tech/static/js/main.ff594efa.js.map",
+    "787.f3d7924f.chunk.js.map": "/one-peace-tech/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1d031d.css",
+    "static/js/main.ff594efa.js"
+  ]
+}
